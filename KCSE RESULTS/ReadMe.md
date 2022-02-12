@@ -50,6 +50,7 @@ Below are my findings from my analysis.
 #### 1. Number of Candidates sitting for KCSE
 -As the years progress more students sit for the national exams. Meaning more kenyans are getting an education.
 ![](figure1.png)
+
 -More males sit for the national exams as compaed to females with an exception of 2016.
 ![](figure2.png)
 #### 2. Quality of results over the years
