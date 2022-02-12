@@ -1,8 +1,8 @@
 # Data Analysis Report for KCSE results 2006 to 2020
 
 ## Table of Contents
-* [Introduction](#introducrtion)
-* [Data collection and Preparation](#data collection and preparation)
+* [Introduction](#introduction)
+* [Data Collection and Preparation](#data-collection-and-preparation)
 * [Methodology](#methodology)
 * [Findings](#findings)
 * [Conclusion](#conclusion)
