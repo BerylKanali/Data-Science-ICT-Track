@@ -54,6 +54,8 @@ Below are my findings from my analysis.
 -More males sit for the national exams as compaed to females with an exception of 2016.
 ![](figure2.png)
 #### 2. Quality of results over the years
+There are still less higher grades as compared to the lower grades
+![](figure7.png)
 
 #### 3. Transition to University for degree courses
 -The number of students who get C+ and above increased between 2006 and 2015 before tanking in 2016 and 2017. Between 2018 and 2020 there has been an increase in number of students with C+ and above.
